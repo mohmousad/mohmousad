@@ -1,6 +1,5 @@
-### Hi is what I'm Working On! 👋
-Here are some ideas to get you started:
+### Here is what I'm Working On! 👋
 
-- 🔭 I’m currently studying at ITT and Kalbonyan Almarsos
-- 🌱 I’m currently learning Full Stack Web Development
+- 🔭 I’m currently studying at ITI and Kalbonyan Almarsos
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: [Email](moh.moussad@gmail.com), [LinkedIn Account](https://www.linkedin.com/in/mohmousad/)
