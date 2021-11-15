@@ -3,4 +3,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at ITT and Kalbonyan Almarsos
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me: moh.moussad@gmail.com, [LinkedIn Account](https://www.linkedin.com/in/mohmousad/)
+- 📫 How to reach me: [Email](moh.moussad@gmail.com), [LinkedIn Account](https://www.linkedin.com/in/mohmousad/)
